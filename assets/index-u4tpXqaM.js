@@ -62197,7 +62197,7 @@ const bf = (g,A,I)=>{
       , e = i.JointData.rope(B, Q, E);
     return bf(g, A, e)
 }
-  , _f = "/tag.glb"
+  , _f = "/personalTag.glb"      //"/tag.glb"
   , Zf = "/band.jpg";
 UM({
     MeshLineGeometry: P3,
